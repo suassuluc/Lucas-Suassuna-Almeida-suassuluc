@@ -12,4 +12,4 @@ Software Develop | Backend | Laravel | python | IA
 
 LinkedIn:https://www.linkedin.com/in/lucas-suassuna-5143681b7/
 
-Email:
+Email:suassunaluc.dev@gmail.com
